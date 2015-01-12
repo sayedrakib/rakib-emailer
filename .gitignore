@@ -1,0 +1,5 @@
+target/
+*.png
+*.log
+*.jpg
+*.jar
